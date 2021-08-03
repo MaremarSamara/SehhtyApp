@@ -1,0 +1,81 @@
+body {  
+    
+    background-image: url('ricechiken.jpg');  
+    background-color:#9400D3;
+  }  
+  h1 {  
+    color: rgb(241, 234, 234);  
+    font-size: 45px;
+    text-align: center;
+  }  
+  h3{
+    font-size: 30px; 
+    
+  }
+  p {  
+    align-content: center;
+    color: rgb(8, 8, 8);
+   
+    font-size: 25px;
+  }  
+  legend{
+      font-size: 30px;
+      text-align: center;
+  }
+  fieldset {
+    font-size: 20px;
+    margin: 123px;
+    left: 50%;
+    top: 50%;
+    margin: 200px;
+    padding: 50px;
+    margin-left: -12%;
+    position: absolute;
+    margin-top: -12%;
+    background-color: rgb(240, 232, 232);
+    border-top: -200px;
+    align-content: center;
+}
+a{
+  color: rgb(214, 210, 210);  
+}
+
+.one{
+    background-image: image("food.jpg");
+    color:rgb(223, 172, 206);
+    text-shadow: salmon;
+    background-color:white
+   
+}
+.one.p{
+    color:rgb(156, 14, 14);
+    
+    text-shadow: 0 0 3px #e2dede, 0 0 5px #cd8ef1;
+}
+
+
+h2{
+    background-color: rgb(220, 197, 243);
+    font-size:30px;
+    padding: 40px;
+}
+.main{
+color:rgb(153, 51, 153);
+font-size: 25px;
+background:"images/food.jpg";
+}
+
+.liPa{
+   color:white;
+}
+.recipe{
+    text-align: right;
+}
+body.one{
+    background-color:white ;
+    
+}
+li{
+    color: rgb(7, 7, 7);
+    font-size: 30px;
+}
